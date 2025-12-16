@@ -11,7 +11,7 @@ perfume_clock = {
     4: "Jo Malone - Peony & Blush Suede",
     5: "Tom Ford - Black Orchid",
     6: "Maison Francis Kurkdjian - Baccarat Rouge 540",
-    7: "Byredo - Gypsy Water",
+    7: "Azzaro- Most Wanted",
     8: "Le Labo - Santal 33",
     9: "Versace - Bright Crystal",
     10: "Lancôme - La Vie Est Belle",
